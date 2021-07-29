@@ -1,13 +1,11 @@
-# Alura cursos online - Fundamentos Django 2 (Parte 2): Uma aplicação web
+# Alura cursos online - Fundamentos Django 2 (Parte 3): Uma aplicação web
 
 Projeto da Alura cursos online, desenvolvido em Python3 com framework Django
 
-## Projeto final aula 4
+## Projeto final aula 5
 
 Nessa aula:
 
-- Configuramos o `static root`, `settings` e alteramos nossos templates para exibir a foto da receita;
+- Adicionando mensagens de sucesso e erro atraves do [messages framework do Django](https://docs.djangoproject.com/en/3.0/ref/contrib/messages/);
 
-- Além disso, criamos uma verificação nos casos de não haver a foto da receita, exibindo a imagem padrão;
-
-- Desenvolvemos a página de busca, e método buscar na view, exibindo o resultado da busca.
+- Melhoramos nosso código, criando funções para evitar duplicidade.
